@@ -1,0 +1,2 @@
+##
+### A página de aluguel de carros apresenta de maneira simples o uso de um formulário dentro de uma situação real. Durante o curso e através desta página podemos perceber como o formulário é importante em diversas situações.
